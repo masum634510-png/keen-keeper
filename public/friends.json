@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "arif.ahmed@example.com",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": ["College", "Best Friend"],
+    "bio": "University life wouldn't be the same without him. Loves football and gaming.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Islam",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "sarah.islam@example.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["Work", "Mentor"],
+    "bio": "A brilliant software engineer and a great guide during my internship.",
+    "goal": 15,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "tanvir.h@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["School", "Close Friend"],
+    "bio": "Childhood friend. We share a common interest in traveling and photography.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 4,
+    "name": "Nabila Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "nabila.r@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["Neighborhood", "Yoga"],
+    "bio": "Always brings positive energy. We usually meet at the local park for morning walks.",
+    "goal": 10,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 5,
+    "name": "Rakib Uddin",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "rakib.u@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["Ex-Colleague", "Tech"],
+    "bio": "Great backend developer. Need to catch up about the recent tech trends.",
+    "goal": 30,
+    "next_due_date": "2026-03-30"
+  },
+  {
+    "id": 6,
+    "name": "Anika Tabassum",
+    "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "email": "anika.t@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["Family Friend", "Art"],
+    "bio": "A talented painter. She recently started her own gallery in the city.",
+    "goal": 30,
+    "next_due_date": "2026-05-12"
+  },
+  {
+    "id": 7,
+    "name": "Fahim Shahriar",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "email": "fahim.s@example.com",
+    "days_since_contact": 19,
+    "status": "almost due",
+    "tags": ["University", "Basketball"],
+    "bio": "My basketball teammate from varsity days. Always up for a quick match.",
+    "goal": 21,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 8,
+    "name": "Ishrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+    "email": "ishrat.j@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["College", "Study Buddy"],
+    "bio": "We used to spend hours in the library together. She is now a doctor.",
+    "goal": 14,
+    "next_due_date": "2026-04-24"
+  }
+]
