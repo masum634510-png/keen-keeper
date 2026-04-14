@@ -20,6 +20,7 @@ const StatsSection = () => {
                 <p className='text-[#64748B]'>Interactions This Month</p>
             </div>
         </div>
+        
     );
 };
 
