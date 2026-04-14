@@ -5,6 +5,7 @@ import App from "./App.jsx";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router";
 import Navbar from "./component/Navbar/Navbar.jsx";
 import Home from "./Pages/Home/Home.jsx";
+import Footer from "./component/Footer/Footer.jsx";
 
 
 const MainLayout = () => {
@@ -12,6 +13,7 @@ const MainLayout = () => {
     <div>
       <Navbar></Navbar>
       <Outlet></Outlet>
+      <Footer></Footer>
     </div>
   );
 };
@@ -26,7 +28,7 @@ const router = createBrowserRouter([
         element:<Home></Home>,
       },
       {
-        path: "/",
+        path: "/contact",
         element: <div>welcome</div>,
       },
     ],
