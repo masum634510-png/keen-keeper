@@ -21,7 +21,7 @@ const FriendsList = () => {
                             <img
                                 src={friend.picture}
                                 alt="photo"
-                                className="w-24 h-24 rounded-full border-4 border-blue-500 mb-4 object-cover"
+                                className="w-24 h-24 rounded-full border-4 border-blue-600 mb-4 object-cover"
                             />
                             <h2 className="text-3xl font-medium">{friend.name}</h2>
                             <p className="text-gray-600 text-[16px] font-semibold pt-2">
