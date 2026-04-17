@@ -6,6 +6,9 @@ import { createBrowserRouter, Outlet, RouterProvider } from "react-router";
 import Navbar from "./component/Navbar/Navbar.jsx";
 import Home from "./Pages/Home/Home.jsx";
 import Footer from "./component/Footer/Footer.jsx";
+import ErrorPage from "./Pages/ErrorPage/ErrorPage.jsx";
+import TimeLine from "./Pages/Timeline/TimeLine.jsx";
+
 
 
 const MainLayout = () => {
@@ -28,10 +31,11 @@ const router = createBrowserRouter([
         element:<Home></Home>,
       },
       {
-        path: "/contact",
-        element: <div>welcome</div>,
+        path: "/Timeline",
+        element: <TimeLine></TimeLine>,
       },
     ],
+    errorElement: <ErrorPage></ErrorPage>
   },
 ]);
 

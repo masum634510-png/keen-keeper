@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Copy = () => {
+const FriendDetails = () => {
     return (
         <div>
-            <h1></h1>
+            
         </div>
     );
 };
 
-export default Copy;
+export default FriendDetails;
